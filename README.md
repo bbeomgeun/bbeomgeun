@@ -15,8 +15,24 @@ Here are some ideas to get you started:
 -->
 
 <h2> 박범근 </h2>
-<br>
 
+<h3> 😄 Profile </h3>
+
+- 인하대학교 공간정보공학과 / 컴퓨터공학과 복수전공 (~ 2022.2)
+- Back-End Engineer
+- SpringBoot & Java
+
+<h3> 🌱 Work Experience </h3>
+
+- <a href = https://www.softsquared.com/>소프트 스퀘어드 인턴 </a> (2021.11 ~ 2022.01) 
+- <a href = https://www.bizhows.com/> 미리디 백엔드 엔지니어 인턴 (비즈하우스 / 미리캔버스) </a> (2021.01 ~ 2022.04)
+
+<h3> 🔭 Activity </h3>
+
+- <a href = https://makeus.in/>CMC 9기 서버 파트</a>(2022.01 ~ 2022.04) 
+- <a href = https://www.swmaestro.org/sw/main/main.do>SW Maestro 13기 연수생 </a>(2021.04 ~ )
+
+<h3> ⚡ Card </h3>
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bbeomgeun)](https://github.com/anuraghazra/github-readme-stats)
  
