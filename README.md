@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 - <a href = https://makeus.in/>CMC 9기 서버 파트 </a>(2022.01 ~ 2022.04) 
 - <a href = https://www.swmaestro.org/sw/main/main.do>SW Maestro 13기 연수생 </a>(2021.04 ~ )
 
+<h3> 👯 Certificate </h3>
+
+- 삼성 SDS SW 검정 B형(Pro) 취득 (2022.08.20)
+
 <h3> ⚡ Card </h3>
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bbeomgeun)](https://github.com/anuraghazra/github-readme-stats)
