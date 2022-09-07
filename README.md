@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <h3> 🔭 Activity </h3>
 
-- <a href = https://makeus.in/>CMC 9기 서버 파트 </a>(2022.01 ~ 2022.04) 
+- <a href = https://makeus.in/> IT 연합 동아리 CMC 9기 서버 파트 </a>(2022.01 ~ 2022.04) 
 - <a href = https://www.swmaestro.org/sw/main/main.do>SW Maestro 13기 연수생 </a>(2022.04 ~ )
 
 <h3> 👯 Certificate </h3>
