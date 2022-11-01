@@ -36,10 +36,12 @@ Here are some ideas to get you started:
 
 - 삼성 SDS SW 검정 B형(Pro) 취득 (2022.08.20)
 
+<h3> 💬 Contact </h3>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%EB%B2%94%EA%B7%BC-%EB%B0%95-720149230/)](https://www.linkedin.com/in/%EB%B2%94%EA%B7%BC-%EB%B0%95-720149230/)
+
 <h3> ⚡ Card </h3>
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bbeomgeun)](https://github.com/anuraghazra/github-readme-stats)
- 
- <br>
  
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=miki308">  
