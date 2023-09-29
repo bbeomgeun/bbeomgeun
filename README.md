@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 인하대학교 공간정보공학과 / 컴퓨터공학과 복수전공 졸업 (2016.03 ~ 2022.02)
 - Back-End Engineer
-- SpringBoot & Java
+- SpringBoot & Kotlin / Java
 
 <h3> 🌱 Work Experience </h3>
 
