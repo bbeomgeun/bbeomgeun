@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 <h3> 😄 Profile </h3>
 
-- 인하대학교 공간정보공학과 / 컴퓨터공학과 복수전공 졸업 (2016.03 ~ 2022.02)
-- Back-End Engineer
-- SpringBoot & Kotlin / Java
+- Back-End ( Kotlin & SpringBoot)
 
 <h3> 🌱 Work Experience </h3>
 
