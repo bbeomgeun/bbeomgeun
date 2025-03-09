@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <h3> 🔭 Activity </h3>
 
-- <a href = https://mash-up.kr/>매쉬업 스프링팀 14기 </a>(24.03 ~ )
+- <a href = https://mash-up.kr/>매쉬업 스프링팀 14, 15기 </a>(24.03 ~ )
 - <a href = https://www.swmaestro.org/sw/main/main.do>SW Maestro 13기 연수생 </a>(2022.04 ~ 2022.11)
 - <a href = https://makeus.in/> IT 연합 동아리 CMC 9기 서버 파트 </a>(2022.01 ~ 2022.04) 
 
