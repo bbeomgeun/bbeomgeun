@@ -33,9 +33,3 @@ Here are some ideas to get you started:
 <h3> 💬 Contact </h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%EB%B2%94%EA%B7%BC-%EB%B0%95-720149230/)](https://www.linkedin.com/in/%EB%B2%94%EA%B7%BC-%EB%B0%95-720149230/)
-
-<h3> ⚡ Card </h3>
-
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bbeomgeun)](https://github.com/anuraghazra/github-readme-stats)
- 
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=miki308">  
