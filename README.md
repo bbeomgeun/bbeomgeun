@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 
 <h3> 🔭 Activity </h3>
 
-- <a href = https://mash-up.kr/>매쉬업 스프링팀 14, 15기 </a>(24.03 ~ )
-- <a href = https://www.swmaestro.org/sw/main/main.do>SW Maestro 13기 연수생 </a>(22.04 ~ 22.11)
+- <a href = https://www.kakaotechcampus.com/kakaotech/about/list.do>카카오 테크캠퍼스 3기 백엔드 멘토</a>(25.06 ~ 25.11)
+- <a href = https://mash-up.kr/>매쉬업 스프링팀 14, 15기 </a>(24.03 ~ 25.10)
+- <a href = https://www.swmaestro.ai/sw/main/main.do>SW Maestro 13기 연수생 </a>(22.04 ~ 22.11)
 - <a href = https://cmc.makeus.in/> IT 연합 동아리 CMC 9기 서버 파트 </a>(22.01 ~ 22.04) 
 
 <h3> 💬 Contact </h3>
