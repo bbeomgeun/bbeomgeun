@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 <h3> 🌱 Work Experience </h3>
 
-- 쿠팡페이 (26.09 ~ )
-- 카카오페이 (22.12 ~ 26.09)
+- CoupangPay (26.09 ~ )
+- KakaoPay (22.12 ~ 26.09)
 
 <h3> 🔭 Activity </h3>
 
